@@ -76,7 +76,7 @@ El sistema, mas alla de facilitar el registro de las iniciativas e ideas de proy
 
 ## Integración continua
 
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/csarssj/AREP-LAB-3)
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/csarssj/AREP-LAB-4)
 
 ## Control de versiones 
 
