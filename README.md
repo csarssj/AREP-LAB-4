@@ -33,7 +33,7 @@ java -cp target/classes edu.escuelaing.arep.nanoSpring.App edu.escuelaing.arep.n
 ```
 o ingresando a través de este link desplegado en heroku:
 
-[heroku](https://nanospark-app.herokuapp.com/example.html)
+[heroku](https://secure-reaches-84671.herokuapp.com/example.html)
 
 ![image](https://github.com/csarssj/ARSW-4-Servidor-Web/blob/master/img/prueba.png)
 
@@ -52,7 +52,7 @@ El sistema, mas alla de facilitar el registro de las iniciativas e ideas de proy
 
 ### Diagrama de clases y Reporte de pruebas
 
-[Se encuentran en este documento](https://github.com/csarssj/AREP-LAB-3/blob/master/Arquitectura_Empresarial__3.pdf)
+[Se encuentran en este documento](https://github.com/csarssj/AREP-LAB-3/blob/master/Arquitectura_Empresarial__4.pdf)
 
 
 ## Construido en
@@ -61,18 +61,18 @@ El sistema, mas alla de facilitar el registro de las iniciativas e ideas de proy
 
 ## Despliegue en heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://nanospark-app.herokuapp.com/example.html)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://secure-reaches-84671.herokuapp.com/nspapp/pi)
 
 *Puede acceder a las siguientes direcciones para:*
 
 	- *Resuesta del mapeo /nspapp accediendo a los POJOS:
-		* https://nanospark-app.herokuapp.com/nspapp/pi
-		* https://nanospark-app.herokuapp.com/nspapp/hola		
-	- *Resuesta de un HTML con CSS e Imagenes:* https://nanospark-app.herokuapp.com/index.hmtl
-	- *Resuesta de un HTML con CSS Y JavaScript:* https://nanospark-app.herokuapp.com/example.hmtl
+		* https://secure-reaches-84671.herokuapp.com/nspapp/pi
+		* https://secure-reaches-84671.herokuapp.com/nspapp/hola		
+	- *Resuesta de un HTML con CSS e Imagenes:* https://secure-reaches-84671.herokuapp.com/index.hmtl
+	- *Resuesta de un HTML con CSS Y JavaScript:* https://secure-reaches-84671.herokuapp.com/example.hmtl
 	- *Resuesta de imagenes:*
-		* https://nanospark-app.herokuapp.com/ca.png
-		* https://nanospark-app.herokuapp.com/dr.png
+		* https://secure-reaches-84671.herokuapp.com/ca.png
+		* https://secure-reaches-84671.herokuapp.com/dr.png
 
 ## Integración continua
 
